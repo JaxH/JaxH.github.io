@@ -4,12 +4,12 @@
 
 # Site
 title: Hexo
-subtitle: ''
-description: ''
+subtitle: '代码人生'
+description: '一杯茶，一包烟，一行代码敲一天'
 keywords:
 author: JaxH
 language: zh-CN
-timezone: ''
+timezone: 'timezone: Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
